@@ -91,7 +91,7 @@ Estamos encantados de recibir contribuciones de la comunidad para mejorar **MiCa
 
 ## Contribuyentes
 
-- Carlos Camilo Madera Sepúlveda: carlosmadera@soygenial.co
+- Carlos Camilo Madera Sepúlveda: ccolombia@soygenial.co
 - Juan Pablo Diaz Puyo: gerencia@tecnomusic.com.co
 
 ## Licencia
